@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3BD794-FA16-4167-9AE7-FCC2C3F2B83C}|CRUDCORE\\CRUDCORE.csproj|c:\\users\\51955\\onedrive\\documentos\\visual studio 2022\\proyects\\crudcore\\crudcore\\crudcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF3BD794-FA16-4167-9AE7-FCC2C3F2B83C}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\crudcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3BD794-FA16-4167-9AE7-FCC2C3F2B83C}|CRUDCORE\\CRUDCORE.csproj|C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\crudcore\\views\\mantenedor\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF3BD794-FA16-4167-9AE7-FCC2C3F2B83C}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\views\\mantenedor\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3BD794-FA16-4167-9AE7-FCC2C3F2B83C}|CRUDCORE\\CRUDCORE.csproj|C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\crudcore\\controllers\\mantenedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3BD794-FA16-4167-9AE7-FCC2C3F2B83C}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\controllers\\mantenedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3BD794-FA16-4167-9AE7-FCC2C3F2B83C}|CRUDCORE\\CRUDCORE.csproj|C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\crudcore\\datos\\contactodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3BD794-FA16-4167-9AE7-FCC2C3F2B83C}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\datos\\contactodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3BD794-FA16-4167-9AE7-FCC2C3F2B83C}|CRUDCORE\\CRUDCORE.csproj|C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\crudcore\\models\\contactomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3BD794-FA16-4167-9AE7-FCC2C3F2B83C}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\models\\contactomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3BD794-FA16-4167-9AE7-FCC2C3F2B83C}|CRUDCORE\\CRUDCORE.csproj|C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\crudcore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF3BD794-FA16-4167-9AE7-FCC2C3F2B83C}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3BD794-FA16-4167-9AE7-FCC2C3F2B83C}|CRUDCORE\\CRUDCORE.csproj|C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\crudcore\\views\\mantenedor\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF3BD794-FA16-4167-9AE7-FCC2C3F2B83C}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\views\\mantenedor\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3BD794-FA16-4167-9AE7-FCC2C3F2B83C}|CRUDCORE\\CRUDCORE.csproj|C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\crudcore\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3BD794-FA16-4167-9AE7-FCC2C3F2B83C}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3BD794-FA16-4167-9AE7-FCC2C3F2B83C}|CRUDCORE\\CRUDCORE.csproj|C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\crudcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF3BD794-FA16-4167-9AE7-FCC2C3F2B83C}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3BD794-FA16-4167-9AE7-FCC2C3F2B83C}|CRUDCORE\\CRUDCORE.csproj|C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\crudcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3BD794-FA16-4167-9AE7-FCC2C3F2B83C}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3BD794-FA16-4167-9AE7-FCC2C3F2B83C}|CRUDCORE\\CRUDCORE.csproj|C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\crudcore\\views\\mantenedor\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF3BD794-FA16-4167-9AE7-FCC2C3F2B83C}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\views\\mantenedor\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3BD794-FA16-4167-9AE7-FCC2C3F2B83C}|CRUDCORE\\CRUDCORE.csproj|C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\crudcore\\views\\mantenedor\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF3BD794-FA16-4167-9AE7-FCC2C3F2B83C}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\views\\mantenedor\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 168,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\CRUDCORE\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CRUDCORE\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\CRUDCORE\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CRUDCORE\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T23:08:29.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CRUDCORE.csproj",
+              "DocumentMoniker": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\CRUDCORE\\CRUDCORE.csproj",
+              "RelativeDocumentMoniker": "CRUDCORE\\CRUDCORE.csproj",
+              "ToolTip": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\CRUDCORE\\CRUDCORE.csproj",
+              "RelativeToolTip": "CRUDCORE\\CRUDCORE.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-29T23:27:23.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\CRUDCORE\\Views\\Mantenedor\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "CRUDCORE\\Views\\Mantenedor\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\CRUDCORE\\Views\\Mantenedor\\Eliminar.cshtml",
+              "RelativeToolTip": "CRUDCORE\\Views\\Mantenedor\\Eliminar.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T16:52:30.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\CRUDCORE\\Views\\Mantenedor\\Editar.cshtml",
+              "RelativeDocumentMoniker": "CRUDCORE\\Views\\Mantenedor\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\CRUDCORE\\Views\\Mantenedor\\Editar.cshtml",
+              "RelativeToolTip": "CRUDCORE\\Views\\Mantenedor\\Editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T16:32:33.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\CRUDCORE\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDCORE\\Program.cs",
+              "ToolTip": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\CRUDCORE\\Program.cs",
+              "RelativeToolTip": "CRUDCORE\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:45:07.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Guardar.cshtml",
+              "DocumentMoniker": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\CRUDCORE\\Views\\Mantenedor\\Guardar.cshtml",
+              "RelativeDocumentMoniker": "CRUDCORE\\Views\\Mantenedor\\Guardar.cshtml",
+              "ToolTip": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\CRUDCORE\\Views\\Mantenedor\\Guardar.cshtml",
+              "RelativeToolTip": "CRUDCORE\\Views\\Mantenedor\\Guardar.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T13:39:46.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Listar.cshtml",
+              "DocumentMoniker": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\CRUDCORE\\Views\\Mantenedor\\Listar.cshtml",
+              "RelativeDocumentMoniker": "CRUDCORE\\Views\\Mantenedor\\Listar.cshtml",
+              "ToolTip": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\CRUDCORE\\Views\\Mantenedor\\Listar.cshtml",
+              "RelativeToolTip": "CRUDCORE\\Views\\Mantenedor\\Listar.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T13:36:22.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MantenedorController.cs",
+              "DocumentMoniker": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\CRUDCORE\\Controllers\\MantenedorController.cs",
+              "RelativeDocumentMoniker": "CRUDCORE\\Controllers\\MantenedorController.cs",
+              "ToolTip": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\CRUDCORE\\Controllers\\MantenedorController.cs",
+              "RelativeToolTip": "CRUDCORE\\Controllers\\MantenedorController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAuwGMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:24:35.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\CRUDCORE\\Datos\\ContactoDatos.cs",
+              "RelativeDocumentMoniker": "CRUDCORE\\Datos\\ContactoDatos.cs",
+              "ToolTip": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\CRUDCORE\\Datos\\ContactoDatos.cs",
+              "RelativeToolTip": "CRUDCORE\\Datos\\ContactoDatos.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAA0wDMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:14:03.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\CRUDCORE\\Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "CRUDCORE\\Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\CRUDCORE\\Datos\\Conexion.cs",
+              "RelativeToolTip": "CRUDCORE\\Datos\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:06:26.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\CRUDCORE\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDCORE\\appsettings.json",
+              "ToolTip": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\CRUDCORE\\appsettings.json",
+              "RelativeToolTip": "CRUDCORE\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T12:59:07.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactoModel.cs",
+              "DocumentMoniker": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\CRUDCORE\\Models\\ContactoModel.cs",
+              "RelativeDocumentMoniker": "CRUDCORE\\Models\\ContactoModel.cs",
+              "ToolTip": "C:\\Users\\51955\\OneDrive\\Documentos\\Visual Studio 2022\\proyects\\CRUDCORE\\CRUDCORE\\Models\\ContactoModel.cs",
+              "RelativeToolTip": "CRUDCORE\\Models\\ContactoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:51:38.84Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
